@@ -1,7 +1,9 @@
 # Images of Mayfly Larvae Collected in Japan
 
 This repository provides access to the image datasets used in Iwasaki & Arai et al. (under review), titled  
-"Japanese Mayfly Family Classification with a Vision Transformer."
+"Japanese mayfly family classification with a vision transformer."
+
+[Preprint](https://doi.org/10.32942/X2P02K)
 
 ## 📁 Datasets
 
