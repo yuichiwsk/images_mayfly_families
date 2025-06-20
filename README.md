@@ -2,8 +2,7 @@
 
 This repository provides access to the image datasets used in Iwasaki & Arai et al. (under review), titled  
 "Japanese mayfly family classification with a vision transformer."
-
-[Preprint](https://doi.org/10.32942/X2P02K)
+[Preprint available here](https://doi.org/10.32942/X2P02K)
 
 ## 📁 Datasets
 
