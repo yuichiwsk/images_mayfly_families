@@ -26,4 +26,5 @@ Please refer to the forthcoming paper for detailed methodology and data usage.
 ## 📜 License
 
 This dataset is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/).
-Iwasaki, Y., Arai, H., Tamada, A. et al. Japanese mayfly family classification with a vision transformer model. Limnology (2025). https://doi.org/10.1007/s10201-025-00805-9
+
+Iwasaki, Y., Arai, H., Tamada, A., Kataoka H. (2025) Japanese mayfly family classification with a vision transformer model. Limnology. [https://doi.org/10.1007/s10201-025-00805-9](https://doi.org/10.1007/s10201-025-00805-9)
