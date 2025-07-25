@@ -2,6 +2,7 @@
 
 This repository provides access to the image datasets used in Iwasaki & Arai et al. (2025).
 Iwasaki, Y., Arai, H., Tamada, A., Kataoka H. (2025) Japanese mayfly family classification with a vision transformer model. Limnology. [https://doi.org/10.1007/s10201-025-00805-9](https://doi.org/10.1007/s10201-025-00805-9)
+
 [Preprint available here](https://doi.org/10.32942/X2P02K)
 
 ## 📁 Datasets
